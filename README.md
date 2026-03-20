@@ -42,7 +42,7 @@ Here Z11& Z22 are the input & output driving point impedances while Z12& Z21 are
 
  <img width="1600" height="885" alt="image" src="https://github.com/user-attachments/assets/31ac1449-2886-4ca1-a2de-e16c4ef5ac65" />
 
- <img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/c96e673e-b5e1-467b-b8fa-ba3a8321052b" />
+ <img width="1414" height="720" alt="image" src="https://github.com/user-attachments/assets/cb1aa6c7-8fbd-4dde-9845-599acb8793cf" />
 
 
 
